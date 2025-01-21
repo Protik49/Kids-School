@@ -341,10 +341,17 @@ nav button{
     height: 50px;
 }
 
+marquee{
+    font-size: 30px;
+    font-weight: 800;
+    color: #01ACFD;
+    font-family: Quicksand;
+    }
+
 /* Footer */
 
 footer{
-    background: rgb(17, 40, 129);
+    background: #01ACFD;
     width: 1566px;
     height: 500px;
 }
@@ -359,7 +366,7 @@ footer{
     display: grid;
     grid-template-columns: 500px repeat(2,1fr);
     gap: 120px;
-    background: rgb(17, 40, 129);
+    background: #01ACFD;
 }
 
 .education .logo-text{
